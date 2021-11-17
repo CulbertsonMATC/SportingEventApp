@@ -1,0 +1,11 @@
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\bin\Debug\Culbertson_SportingForm.exe.config
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\bin\Debug\Culbertson_SportingForm.exe
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\bin\Debug\Culbertson_SportingForm.pdb
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.Form1.resources
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.Properties.Resources.resources
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.csproj.GenerateResource.cache
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.exe
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.pdb
+C:\Users\jabba\source\repos\School\Culbertson_SportingForm\Culbertson_SportingForm\obj\Debug\Culbertson_SportingForm.Form2.resources
